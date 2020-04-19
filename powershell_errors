@@ -1,0 +1,1067 @@
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:639 char:9
++         $VirtualAlloc = [System.Runtime.InteropServices.Marshal]::Get ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:644 char:9
++         $VirtualAllocEx = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:649 char:9
++         $memcpy = [System.Runtime.InteropServices.Marshal]::GetDelega ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:654 char:9
++         $memset = [System.Runtime.InteropServices.Marshal]::GetDelega ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:659 char:9
++         $LoadLibrary = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:664 char:9
++         $GetProcAddress = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:669 char:9
++         $GetProcAddressIntPtr = [System.Runtime.InteropServices.Marsh ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:674 char:9
++         $VirtualFree = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:679 char:9
++         $VirtualFreeEx = [System.Runtime.InteropServices.Marshal]::Ge ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:684 char:9
++         $VirtualProtect = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:689 char:9
++         $GetModuleHandle = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:694 char:9
++         $FreeLibrary = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:699 char:9
++         $OpenProcess = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:704 char:9
++         $WaitForSingleObject = [System.Runtime.InteropServices.Marsha ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:709 char:9
++         $WriteProcessMemory = [System.Runtime.InteropServices.Marshal ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:714 char:9
++         $ReadProcessMemory = [System.Runtime.InteropServices.Marshal] ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:719 char:9
++         $CreateRemoteThread = [System.Runtime.InteropServices.Marshal ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:724 char:9
++         $GetExitCodeThread = [System.Runtime.InteropServices.Marshal] ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:729 char:9
++         $OpenThreadToken = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:734 char:9
++         $GetCurrentThread = [System.Runtime.InteropServices.Marshal]: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:739 char:9
++         $AdjustTokenPrivileges = [System.Runtime.InteropServices.Mars ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:744 char:9
++         $LookupPrivilegeValue = [System.Runtime.InteropServices.Marsh ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:749 char:9
++         $ImpersonateSelf = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:762 char:9
++         $IsWow64Process = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:767 char:9
++         $CreateThread = [System.Runtime.InteropServices.Marshal]::Get ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:639 char:9
++         $VirtualAlloc = [System.Runtime.InteropServices.Marshal]::Get ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:644 char:9
++         $VirtualAllocEx = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:649 char:9
++         $memcpy = [System.Runtime.InteropServices.Marshal]::GetDelega ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:654 char:9
++         $memset = [System.Runtime.InteropServices.Marshal]::GetDelega ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:659 char:9
++         $LoadLibrary = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:664 char:9
++         $GetProcAddress = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:669 char:9
++         $GetProcAddressIntPtr = [System.Runtime.InteropServices.Marsh ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:674 char:9
++         $VirtualFree = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:679 char:9
++         $VirtualFreeEx = [System.Runtime.InteropServices.Marshal]::Ge ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:684 char:9
++         $VirtualProtect = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:689 char:9
++         $GetModuleHandle = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:694 char:9
++         $FreeLibrary = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:699 char:9
++         $OpenProcess = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:704 char:9
++         $WaitForSingleObject = [System.Runtime.InteropServices.Marsha ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:709 char:9
++         $WriteProcessMemory = [System.Runtime.InteropServices.Marshal ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:714 char:9
++         $ReadProcessMemory = [System.Runtime.InteropServices.Marshal] ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:719 char:9
++         $CreateRemoteThread = [System.Runtime.InteropServices.Marshal ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:724 char:9
++         $GetExitCodeThread = [System.Runtime.InteropServices.Marshal] ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:729 char:9
++         $OpenThreadToken = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:734 char:9
++         $GetCurrentThread = [System.Runtime.InteropServices.Marshal]: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:739 char:9
++         $AdjustTokenPrivileges = [System.Runtime.InteropServices.Mars ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:744 char:9
++         $LookupPrivilegeValue = [System.Runtime.InteropServices.Marsh ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:749 char:9
++         $ImpersonateSelf = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:762 char:9
++         $IsWow64Process = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1039 char:9
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:1046 char:9
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:767 char:9
++         $CreateThread = [System.Runtime.InteropServices.Marshal]::Get ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+
+You cannot call a method on a null-valued expression.
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:2463 char:17
++ ...             $PEHandle = $Win32Functions.VirtualAlloc.Invoke($LoadAddr ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+VirtualAlloc failed to allocate memory for PE. If PE is not ASLR compatible, try running the script in a new
+PowerShell process (the new PowerShell process will have a different memory layout, so the address the PE wants might
+be free).
+At C:\Users\LAPTOP\Desktop\1\Invoke-ReflectivePEInjection.ps1:2475 char:13
++             Throw "VirtualAlloc failed to allocate memory for PE. If  ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OperationStopped: (VirtualAlloc fa...might be free).:String) [], RuntimeException
+    + FullyQualifiedErrorId : VirtualAlloc failed to allocate memory for PE. If PE is not ASLR compatible, try running
+    the script in a new PowerShell process (the new PowerShell process will have a different memory layout, so the ad
+  dress the PE wants might be free).
